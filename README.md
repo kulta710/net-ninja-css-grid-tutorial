@@ -3,8 +3,8 @@
 ## Net Ninja
 ### CSS Grid Tutorial
 #### Video List
-- [#1 - Why Use CSS Grid?](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY&index=1) ✅
-- [#2 - Columns](https://www.youtube.com/watch?v=d-MHl_Q_hp8&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY&index=2) ✅
+- [#1 - Why Use CSS Grid?](https://www.youtube.com/watch?v=x7tLPhnA06w&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY&index=1)
+- [#2 - Columns](https://www.youtube.com/watch?v=d-MHl_Q_hp8&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY&index=2)
 - [#3 - Rows](https://www.youtube.com/watch?v=MDQG6LSS8l8&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY&index=3)
 - [#4 - Grid Lines](https://www.youtube.com/watch?v=J5GWyiWU2H8&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY&index=4)
 - [#5 - Nested Grids](https://www.youtube.com/watch?v=211A79O_jX8&list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY&index=5)
